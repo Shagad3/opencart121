@@ -1,0 +1,35 @@
+{
+  "total": 2,
+  "pass": 0,
+  "fail": 0,
+  "skip": 2,
+  "classes": [
+    "testBase.BaseClass",
+    "testCases.TC01_AccountRegistration",
+    "testCases.TC02_LoginPage"
+  ],
+  "envInfo": {
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "SNAPSHOT",
+      "qaf-Build-Time": "30-Apr-2023 19:53:12",
+      "qaf-Version": "current"
+    },
+    "run-parameters": {
+      "os": "linux",
+      "browser": "chrome"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "22.0.1",
+      "os.arch": "amd64",
+      "host": "LAPTOP-NPAGS1O1",
+      "os.name": "Windows 11",
+      "user.name": "User",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1730137760304,
+  "endTime": 1730138120851
+}

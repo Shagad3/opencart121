@@ -1,0 +1,94 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "Windows",
+        "chrome"
+      ],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity",
+          "Regression"
+        ],
+        "name": "setup",
+        "resultFileName": "Setup"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730079454294,
+      "duration": 2987,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "Windows",
+        "chrome"
+      ],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity",
+          "Regression"
+        ],
+        "name": "setup",
+        "resultFileName": "Setup0"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730079454294,
+      "duration": 2987,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity",
+          "Regression"
+        ],
+        "name": "shutdown",
+        "resultFileName": "Shutdown"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730079472366,
+      "duration": 2,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity",
+          "Regression"
+        ],
+        "name": "shutdown",
+        "resultFileName": "Shutdown0"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730079472336,
+      "duration": 32,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

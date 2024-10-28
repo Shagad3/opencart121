@@ -1,0 +1,94 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "linux",
+        "firefox"
+      ],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity",
+          "Regression"
+        ],
+        "name": "setup",
+        "resultFileName": "Setup"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730138696889,
+      "duration": 3582,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity",
+          "Regression"
+        ],
+        "name": "shutdown",
+        "resultFileName": "Shutdown"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730138700494,
+      "duration": 3,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "linux",
+        "firefox"
+      ],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity",
+          "Regression"
+        ],
+        "name": "setup",
+        "resultFileName": "Setup1"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730138700504,
+      "duration": 180033,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity",
+          "Regression"
+        ],
+        "name": "shutdown",
+        "resultFileName": "Shutdown2"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730138880548,
+      "duration": 3,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

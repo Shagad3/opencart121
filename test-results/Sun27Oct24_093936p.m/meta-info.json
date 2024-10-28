@@ -1,0 +1,15 @@
+{
+  "name": "Suite",
+  "status": "fail",
+  "tests": [
+    "Suite/Firefoxtest",
+    "Suite/Chrometest",
+    "Suite/Edgetest"
+  ],
+  "total": 1,
+  "pass": 0,
+  "fail": 1,
+  "skip": 0,
+  "startTime": 1730079575976,
+  "endTime": 1730079582909
+}

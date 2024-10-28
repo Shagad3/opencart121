@@ -1,0 +1,24 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity"
+        ],
+        "name": "registorDeatils",
+        "resultFileName": "RegistorDeatils"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730072851075,
+      "duration": 3476,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "registorDeatils",
+        "resultFileName": "RegistorDeatils"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730000986102,
+      "duration": 3595,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

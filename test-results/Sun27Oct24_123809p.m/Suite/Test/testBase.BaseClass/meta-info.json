@@ -1,0 +1,41 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "Windows",
+        "chrome"
+      ],
+      "metaData": {
+        "description": "",
+        "name": "setup",
+        "resultFileName": "Setup"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730047086940,
+      "duration": 2788,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "shutdown",
+        "resultFileName": "Shutdown"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730047099935,
+      "duration": 1847,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

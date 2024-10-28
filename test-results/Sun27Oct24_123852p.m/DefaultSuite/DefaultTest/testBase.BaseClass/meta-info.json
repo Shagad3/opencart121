@@ -1,0 +1,38 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "setup",
+        "resultFileName": "Setup"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730047132166,
+      "duration": 31,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "shutdown",
+        "resultFileName": "Shutdown"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730047132225,
+      "duration": 3,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

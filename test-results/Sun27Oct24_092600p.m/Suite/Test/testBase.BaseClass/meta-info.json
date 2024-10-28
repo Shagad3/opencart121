@@ -1,0 +1,49 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "Windows",
+        "chrome"
+      ],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity",
+          "Regression"
+        ],
+        "name": "setup",
+        "resultFileName": "Setup"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730078758597,
+      "duration": 2316,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Sanity",
+          "Regression"
+        ],
+        "name": "shutdown",
+        "resultFileName": "Shutdown"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730078790575,
+      "duration": 0,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

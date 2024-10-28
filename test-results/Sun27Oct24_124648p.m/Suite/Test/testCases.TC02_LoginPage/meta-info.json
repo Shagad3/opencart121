@@ -1,0 +1,21 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "loginAppliation",
+        "resultFileName": "LoginAppliation"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730047608799,
+      "duration": 1139,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Suite",
+  "status": "pass",
+  "tests": [
+    "Suite/Test",
+    "Suite/Test2"
+  ],
+  "total": 4,
+  "pass": 4,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1730141241459,
+  "endTime": 1730141267393
+}

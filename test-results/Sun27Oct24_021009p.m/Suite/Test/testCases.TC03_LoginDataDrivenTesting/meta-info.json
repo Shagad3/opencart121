@@ -1,0 +1,21 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "{\"dataProviderClass\":\"utilities.DataProviders\",\"dataProvider\":\"LoginData\"}",
+        "name": "verify_loginDDT",
+        "resultFileName": "Verify_loginDDT"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730052609460,
+      "duration": 12,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

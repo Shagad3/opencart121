@@ -1,0 +1,21 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "sampleQAFTest",
+        "resultFileName": "SampleQAFTest"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730054383888,
+      "duration": 80,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "Regression"
+        ],
+        "name": "loginAppliation",
+        "resultFileName": "LoginAppliation"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1730138871246,
+      "duration": 4,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}
