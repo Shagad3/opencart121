@@ -10,4 +10,3 @@ testCases\TC01_AccountRegistration.class
 pageObjects\BasePage.class
 utilities\ExtentReportManager.class
 utilities\DataProviders.class
-testCases\NewTest.class

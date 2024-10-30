@@ -16,8 +16,9 @@ public class DataProviders {
 	  String path = ".\\testdata\\Opencart_LoginData.xlsx"; //taking xl file fromtest data 
 	  ExcelUtility xlutil = new ExcelUtility(path); // creating an object XLutility
 	  
-	  int totelrows = xlutil.getRowCount("Sheet1");
-	  int totelcols =xlutil.getCellCount("Sheet1",1);
+	  int totelrows = xlutil.getRowCount("Sheet1"); //getting row count
+	  int totelcols =xlutil.getCellCount("Sheet1",1);//getting colum count
+	  
 	  
 	  String logindata [][] = new String [totelrows][totelcols];//created two dimentional array which can store the informtion
 	  for( int i =1; i<=totelrows; i++) {
