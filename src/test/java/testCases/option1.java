@@ -6,8 +6,7 @@ public class option1 {
 		
 		System.out.print("k");
 		System.out.print("option 2");
-		System.out.print("option 2 main conflict check");
-		System.out.print("option 1 main conflict");
+
 	}
 
 }
