@@ -38,6 +38,7 @@ public Properties p;
 		FileReader file = new FileReader("./src//test//resources//config.properties");
 		p = new Properties();
 		p.load(file);
+		System.out.println("hello world");
 		
 		if(p.getProperty("execution_env").equalsIgnoreCase("remote")){
 			DesiredCapabilities capabilities = new DesiredCapabilities();
