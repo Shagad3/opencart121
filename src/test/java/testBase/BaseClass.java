@@ -39,6 +39,7 @@ public Properties p;
 		p = new Properties();
 		p.load(file);
 		
+		
 		if(p.getProperty("execution_env").equalsIgnoreCase("remote")){
 			DesiredCapabilities capabilities = new DesiredCapabilities();
 			if(os.equalsIgnoreCase("Windows")) {
