@@ -39,7 +39,8 @@ public Properties p;
 		p = new Properties();
 		p.load(file);
 		System.out.println("hello feature2");
-		
+		System.out.println("hello feature2");
+		System.out.println("hello feature2");
 		
 		if(p.getProperty("execution_env").equalsIgnoreCase("remote")){
 			DesiredCapabilities capabilities = new DesiredCapabilities();
